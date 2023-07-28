@@ -1,0 +1,8 @@
+{
+  "short_name": "Little Lemon Restaurant",
+  "name": "Little Lemon Restaurant Website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#EDEFEE"
+}
